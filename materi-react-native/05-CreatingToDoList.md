@@ -29,3 +29,4 @@ jika melihat pada gambar disitu, kita bisa lihat fitur-fitur berikut tersedia:
 3. cek todo sudah selsai atau belum
 4. menghapus todo
 5. prevensi penambahan todo kosong
+6. auto delete/auto moved to bottom completed todo
